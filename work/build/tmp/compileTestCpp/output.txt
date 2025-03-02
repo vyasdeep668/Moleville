@@ -1,0 +1,5 @@
+See file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/work/build/tmp/compileTestCpp/output.txt for all output for compileTestCpp.
+compiling TestMolevilleGuide.cpp successful.
+TestMolevilleGuide.cpp
+
+Finished compileTestCpp, see full log file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/work/build/tmp/compileTestCpp/output.txt.

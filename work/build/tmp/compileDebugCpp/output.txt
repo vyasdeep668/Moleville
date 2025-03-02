@@ -1,0 +1,24 @@
+See file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/work/build/tmp/compileDebugCpp/output.txt for all output for compileDebugCpp.
+compiling MolevilleGuide.cpp successful.
+MolevilleGuide.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(833): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(833): note: the template instantiation context (the oldest one first) is
+C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\work\src\main\cpp\MolevilleGuide.cpp(39): note: see reference to class template instantiation 'std::vector<Tunnel,std::allocator<Tunnel>>' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(874): note: while compiling class template member function 'void std::vector<Tunnel,std::allocator<Tunnel>>::push_back(_Ty &&)'
+        with
+        [
+            _Ty=Tunnel
+        ]
+C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\work\src\main\cpp\MolevilleGuide.cpp(45): note: see the first reference to 'std::vector<Tunnel,std::allocator<Tunnel>>::push_back' in 'initGuide'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(876): note: see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<Tunnel>(Tunnel &&)' being compiled
+        with
+        [
+            _Ty=Tunnel
+        ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(783): note: see reference to function template instantiation 'Tunnel *std::vector<Tunnel,std::allocator<Tunnel>>::_Emplace_reallocate<_Ty>(Tunnel *const ,_Ty &&)' being compiled
+        with
+        [
+            _Ty=Tunnel
+        ]
+
+Finished compileDebugCpp, see full log file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/work/build/tmp/compileDebugCpp/output.txt.

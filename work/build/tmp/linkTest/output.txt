@@ -1,0 +1,5 @@
+See file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/work/build/tmp/linkTest/output.txt for all output for linkTest.
+linking workTest.exe failed.
+LINK : fatal error LNK1104: cannot open file 'C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\lib\main\debug\interface.lib'
+
+Finished linkTest, see full log file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/work/build/tmp/linkTest/output.txt.

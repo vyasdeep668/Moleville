@@ -1,0 +1,10 @@
+/DEBUG
+"/OUT:C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\work\build\lib\main\release\work.dll"
+/NOLOGO
+/DLL
+"/IMPLIB:C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\work\build\lib\main\release\work.lib"
+"/LIBPATH:C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\ucrt\x64"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\work\build\obj\main\release\2z37zhpown9ffcpve8fy9atg9\MolevilleGuide.obj"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\lib\main\release\interface.lib"

@@ -1,0 +1,13 @@
+/DEBUG
+"/OUT:C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\lib\main\release\interface.dll"
+/NOLOGO
+/DLL
+"/IMPLIB:C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\lib\main\release\interface.lib"
+"/LIBPATH:C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.22621.0\ucrt\x64"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\obj\main\release\20dw3aghanbm50w6ytvygydjq\Waypoint.obj"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\obj\main\release\2o83w8tk4pdkhmvg3f69gf99m\Direction.obj"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\obj\main\release\4vapmevug4iv27ag66y8ycico\Route.obj"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\obj\main\release\5x1zzltwmdtwb2g3fhkdsw90q\Location.obj"
+"C:\Users\vyasd\OneDrive\Desktop\Embedded Projects\Moleville-cpp-1.1\Moleville\interface\build\obj\main\release\bccitwt25y5mqb4lfgu3kxv9p\MoleGuide.obj"

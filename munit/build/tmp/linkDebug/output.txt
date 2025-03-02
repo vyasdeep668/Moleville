@@ -1,0 +1,4 @@
+See file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/munit/build/tmp/linkDebug/output.txt for all output for linkDebug.
+linking munit.dll successful.
+
+Finished linkDebug, see full log file:///C:/Users/vyasd/OneDrive/Desktop/Embedded%20Projects/Moleville-cpp-1.1/Moleville/munit/build/tmp/linkDebug/output.txt.
