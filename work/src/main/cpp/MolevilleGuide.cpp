@@ -117,34 +117,16 @@ const Route& findRoute(Location start, Location finish)
     Waypoint waypoints[NUM_LOCATIONS];
     int numWaypoints = 0;
 
-    // Traverse back from finish to start to get the waypoints
-    for (Location currLoc = finish; currLoc != start; currLoc = prev[currLoc].location) 
+    waypoints[numWaypoints++] = {finish, FINISH};
+    for(Location currLoc = finish; currLoc != start; currLoc = prev[currLoc].location)
     {
-        waypoints[numWaypoints++] = {currLoc, FINISH}; // Default direction is FINISH
+        waypoints[numWaypoints++] = prev[currLoc];
     }
-    waypoints[numWaypoints++] = {start, FINISH}; // Start location has no direction
 
     // Reverse the waypoints since we traversed from finish to start
     for (int i = 0; i < numWaypoints/2; i++) 
     {
         swap(waypoints[i], waypoints[numWaypoints - 1 - i]);
-    }
-
-    // Assign directions correctly
-    for (int i = 0; i < numWaypoints - 1; i++) 
-    {
-        Location current = waypoints[i].location;
-        Location next = waypoints[i + 1].location;
-
-        // Find the direction from current to next
-        for (auto tunnel : MoleGuideMap[current]) 
-        {
-            if (tunnel.destination == next) 
-            {
-                waypoints[i].direction = tunnel.direction;
-                break;
-            }
-        }
     }
 
     // Initialize the route
